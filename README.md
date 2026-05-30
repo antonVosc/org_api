@@ -36,7 +36,7 @@ org_api/
 
 1. 
 ```bash
-git clone <repo-url>
+git clone https://github.com/antonVosc/org_api.git
 ```
 
 2. 
